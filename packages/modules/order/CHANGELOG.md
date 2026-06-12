@@ -1,5 +1,14 @@
 # @medusajs/order
 
+## 2.16.0
+
+### Patch Changes
+
+- [#15632](https://github.com/medusajs/medusa/pull/15632) [`18474de124868370298addf195e5229ca6792f81`](https://github.com/medusajs/medusa/commit/18474de124868370298addf195e5229ca6792f81) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(product, order, utils, deps, index): update MikroORM to v6.6.14
+
+- Updated dependencies [[`8a6664d6d445f875f56078fad21fe12a185b9627`](https://github.com/medusajs/medusa/commit/8a6664d6d445f875f56078fad21fe12a185b9627), [`20352f4fa2f31e5b491c8b1b244c407392939fbf`](https://github.com/medusajs/medusa/commit/20352f4fa2f31e5b491c8b1b244c407392939fbf)]:
+  - @medusajs/framework@2.16.0
+
 ## 2.15.5
 
 ### Patch Changes

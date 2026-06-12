@@ -1,5 +1,15 @@
 # Change Log
 
+## 2.16.0
+
+### Minor Changes
+
+- [#15587](https://github.com/medusajs/medusa/pull/15587) [`456813f8b36ab1086dec09c6a89655d7ab0bae5b`](https://github.com/medusajs/medusa/commit/456813f8b36ab1086dec09c6a89655d7ab0bae5b) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(deps): bump OpenTelemetry packages
+
+### Patch Changes
+
+- [#15632](https://github.com/medusajs/medusa/pull/15632) [`18474de124868370298addf195e5229ca6792f81`](https://github.com/medusajs/medusa/commit/18474de124868370298addf195e5229ca6792f81) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(product, order, utils, deps, index): update MikroORM to v6.6.14
+
 ## 2.15.5
 
 ## 2.15.4

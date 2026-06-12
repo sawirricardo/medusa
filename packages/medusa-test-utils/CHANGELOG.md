@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.16.0
+
+### Patch Changes
+
+- Updated dependencies [[`2b7e6782c61af8b38ec9789736f3c708576b2620`](https://github.com/medusajs/medusa/commit/2b7e6782c61af8b38ec9789736f3c708576b2620), [`8a6664d6d445f875f56078fad21fe12a185b9627`](https://github.com/medusajs/medusa/commit/8a6664d6d445f875f56078fad21fe12a185b9627), [`27874782c29890d8eb4c07f3eaafa3c71ebf3949`](https://github.com/medusajs/medusa/commit/27874782c29890d8eb4c07f3eaafa3c71ebf3949), [`7cea59f0c674a49380acb3638cbf86c590461b23`](https://github.com/medusajs/medusa/commit/7cea59f0c674a49380acb3638cbf86c590461b23), [`55be5103e41ffe367400cc9317a3bd6dbaa1e0cf`](https://github.com/medusajs/medusa/commit/55be5103e41ffe367400cc9317a3bd6dbaa1e0cf), [`46271f2c4f9b4d107a43b588b1082a3e572fbe76`](https://github.com/medusajs/medusa/commit/46271f2c4f9b4d107a43b588b1082a3e572fbe76), [`68f7a0e792a90c2edc04f27454178b75fd3b05f4`](https://github.com/medusajs/medusa/commit/68f7a0e792a90c2edc04f27454178b75fd3b05f4), [`5cd86b7b0899bb3bace07da3299cc70826afbd64`](https://github.com/medusajs/medusa/commit/5cd86b7b0899bb3bace07da3299cc70826afbd64), [`beb1b5e6bcbfeda02659cbaa0e04d5dbc1ba64cd`](https://github.com/medusajs/medusa/commit/beb1b5e6bcbfeda02659cbaa0e04d5dbc1ba64cd), [`06b05343b4158e7bb96f8f0fbd7e6836a1818e44`](https://github.com/medusajs/medusa/commit/06b05343b4158e7bb96f8f0fbd7e6836a1818e44), [`e1697b65ff73257939c714dd2c8afdb5efa5e947`](https://github.com/medusajs/medusa/commit/e1697b65ff73257939c714dd2c8afdb5efa5e947), [`46c806036c1f469e949c2da76ae55909c8920bd9`](https://github.com/medusajs/medusa/commit/46c806036c1f469e949c2da76ae55909c8920bd9), [`ab832fcf1e4f51e1469a20aeb8e1ded125bd19c6`](https://github.com/medusajs/medusa/commit/ab832fcf1e4f51e1469a20aeb8e1ded125bd19c6), [`30f6d407cfaca510939ad161fbbe74feebb97883`](https://github.com/medusajs/medusa/commit/30f6d407cfaca510939ad161fbbe74feebb97883), [`1344c10503f34e392bd03f733820bcd5a12a2766`](https://github.com/medusajs/medusa/commit/1344c10503f34e392bd03f733820bcd5a12a2766), [`a46961ed421dc69fe991891d02b0f1c66f6180ab`](https://github.com/medusajs/medusa/commit/a46961ed421dc69fe991891d02b0f1c66f6180ab), [`20352f4fa2f31e5b491c8b1b244c407392939fbf`](https://github.com/medusajs/medusa/commit/20352f4fa2f31e5b491c8b1b244c407392939fbf), [`740132b7576d937b82e913c1ccf4cfabe56777d6`](https://github.com/medusajs/medusa/commit/740132b7576d937b82e913c1ccf4cfabe56777d6), [`8a27881086307b14bfd1f74f13e2b9db51cc0c03`](https://github.com/medusajs/medusa/commit/8a27881086307b14bfd1f74f13e2b9db51cc0c03), [`f58de022857e00d12fa60f55fb80fcc7eff357d8`](https://github.com/medusajs/medusa/commit/f58de022857e00d12fa60f55fb80fcc7eff357d8), [`af4dc161cf3ca90f68214138212416bc7b54209b`](https://github.com/medusajs/medusa/commit/af4dc161cf3ca90f68214138212416bc7b54209b)]:
+  - @medusajs/medusa@2.16.0
+  - @medusajs/framework@2.16.0
+  - @medusajs/core-flows@2.16.0
+
 ## 2.15.5
 
 ### Patch Changes

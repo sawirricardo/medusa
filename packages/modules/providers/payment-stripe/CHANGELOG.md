@@ -1,5 +1,16 @@
 # @medusajs/payment-stripe
 
+## 2.16.0
+
+### Patch Changes
+
+- [#15684](https://github.com/medusajs/medusa/pull/15684) [`a67af142f80438b05a20599af7d26176904a8be7`](https://github.com/medusajs/medusa/commit/a67af142f80438b05a20599af7d26176904a8be7) Thanks [@dsumeet14](https://github.com/dsumeet14)! - chore(payment-stripe): Warn at provider initialization when the Stripe `webhookSecret` option is missing, instead of silently accepting the misconfiguration that later breaks webhook signature verification and leaves webhook-dependent payment flows stuck in pending.
+
+- [#15626](https://github.com/medusajs/medusa/pull/15626) [`2bd3b0d18d7d4fe9c6f36bdffb76d1104f58f47b`](https://github.com/medusajs/medusa/commit/2bd3b0d18d7d4fe9c6f36bdffb76d1104f58f47b) Thanks [@sradevski](https://github.com/sradevski)! - Add support for deleting a payment method
+
+- Updated dependencies [[`8a6664d6d445f875f56078fad21fe12a185b9627`](https://github.com/medusajs/medusa/commit/8a6664d6d445f875f56078fad21fe12a185b9627), [`20352f4fa2f31e5b491c8b1b244c407392939fbf`](https://github.com/medusajs/medusa/commit/20352f4fa2f31e5b491c8b1b244c407392939fbf)]:
+  - @medusajs/framework@2.16.0
+
 ## 2.15.5
 
 ### Patch Changes

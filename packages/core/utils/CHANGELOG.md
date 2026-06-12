@@ -1,5 +1,30 @@
 # @medusajs/utils
 
+## 2.16.0
+
+### Patch Changes
+
+- [#15600](https://github.com/medusajs/medusa/pull/15600) [`8a6664d6d445f875f56078fad21fe12a185b9627`](https://github.com/medusajs/medusa/commit/8a6664d6d445f875f56078fad21fe12a185b9627) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(framework, utils, medusa): centralize NODE_ENV production check and tighten secret defaults
+
+- [#15662](https://github.com/medusajs/medusa/pull/15662) [`34450089041ee90ebbeca40ad7977e945a53a7b7`](https://github.com/medusajs/medusa/commit/34450089041ee90ebbeca40ad7977e945a53a7b7) Thanks [@Tusharkhadde](https://github.com/Tusharkhadde)! - fix(utils): InjectManager error message shows "undefined" instead of "baseRepository\_"
+
+- [#15503](https://github.com/medusajs/medusa/pull/15503) [`dc3e213a3be9d5ae8637863461eab0404bbc0e16`](https://github.com/medusajs/medusa/commit/dc3e213a3be9d5ae8637863461eab0404bbc0e16) Thanks [@puneetdixit200](https://github.com/puneetdixit200)! - fix(utils): preserve Medusa context indexes on overridden service methods
+
+- [#15549](https://github.com/medusajs/medusa/pull/15549) [`9f5194267fc5abdece31531af3822b0d05ed1fcc`](https://github.com/medusajs/medusa/commit/9f5194267fc5abdece31531af3822b0d05ed1fcc) Thanks [@DucMinhNe](https://github.com/DucMinhNe)! - fix(utils, workflows-sdk, create-medusa-app): correct "occured" -> "occurred" typo in error messages and docs
+
+- [#15346](https://github.com/medusajs/medusa/pull/15346) [`8b3b9f7dc97731688e4a5f1c0bb2714e00483bc6`](https://github.com/medusajs/medusa/commit/8b3b9f7dc97731688e4a5f1c0bb2714e00483bc6) Thanks [@Cpidar](https://github.com/Cpidar)! - fix(product, utils): Support non-Latin characters in product handles
+
+- [#15591](https://github.com/medusajs/medusa/pull/15591) [`801dbdb2ae70152aaa5917590885bd36bd44efc4`](https://github.com/medusajs/medusa/commit/801dbdb2ae70152aaa5917590885bd36bd44efc4) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(utils,product): handle array of mikroORM entities serialization and fix variant image assignment serialization issue
+
+- [#15595](https://github.com/medusajs/medusa/pull/15595) [`beb1b5e6bcbfeda02659cbaa0e04d5dbc1ba64cd`](https://github.com/medusajs/medusa/commit/beb1b5e6bcbfeda02659cbaa0e04d5dbc1ba64cd) Thanks [@leobenzol](https://github.com/leobenzol)! - feat(medusa,utils): plugin type augmentations
+
+- [#15632](https://github.com/medusajs/medusa/pull/15632) [`18474de124868370298addf195e5229ca6792f81`](https://github.com/medusajs/medusa/commit/18474de124868370298addf195e5229ca6792f81) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(product, order, utils, deps, index): update MikroORM to v6.6.14
+
+- [#15584](https://github.com/medusajs/medusa/pull/15584) [`14af163eae35be9a204f37c5a87d0b2b59b14054`](https://github.com/medusajs/medusa/commit/14af163eae35be9a204f37c5a87d0b2b59b14054) Thanks [@christiananese](https://github.com/christiananese)! - fix(utils): preserve auth MFA defaults when auth options are customized
+
+- Updated dependencies [[`456813f8b36ab1086dec09c6a89655d7ab0bae5b`](https://github.com/medusajs/medusa/commit/456813f8b36ab1086dec09c6a89655d7ab0bae5b), [`18474de124868370298addf195e5229ca6792f81`](https://github.com/medusajs/medusa/commit/18474de124868370298addf195e5229ca6792f81)]:
+  - @medusajs/deps@2.16.0
+
 ## 2.15.5
 
 ### Patch Changes

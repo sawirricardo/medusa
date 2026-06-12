@@ -1,5 +1,23 @@
 # @medusajs/framework
 
+## 2.16.0
+
+### Patch Changes
+
+- [#15600](https://github.com/medusajs/medusa/pull/15600) [`8a6664d6d445f875f56078fad21fe12a185b9627`](https://github.com/medusajs/medusa/commit/8a6664d6d445f875f56078fad21fe12a185b9627) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(framework, utils, medusa): centralize NODE_ENV production check and tighten secret defaults
+
+- [#15601](https://github.com/medusajs/medusa/pull/15601) [`20352f4fa2f31e5b491c8b1b244c407392939fbf`](https://github.com/medusajs/medusa/commit/20352f4fa2f31e5b491c8b1b244c407392939fbf) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(framework): change for session cookies
+
+- Updated dependencies [[`8a6664d6d445f875f56078fad21fe12a185b9627`](https://github.com/medusajs/medusa/commit/8a6664d6d445f875f56078fad21fe12a185b9627), [`34450089041ee90ebbeca40ad7977e945a53a7b7`](https://github.com/medusajs/medusa/commit/34450089041ee90ebbeca40ad7977e945a53a7b7), [`55be5103e41ffe367400cc9317a3bd6dbaa1e0cf`](https://github.com/medusajs/medusa/commit/55be5103e41ffe367400cc9317a3bd6dbaa1e0cf), [`46271f2c4f9b4d107a43b588b1082a3e572fbe76`](https://github.com/medusajs/medusa/commit/46271f2c4f9b4d107a43b588b1082a3e572fbe76), [`699a9a85c795e13f9e787056e0fb65cfea0115dc`](https://github.com/medusajs/medusa/commit/699a9a85c795e13f9e787056e0fb65cfea0115dc), [`dc3e213a3be9d5ae8637863461eab0404bbc0e16`](https://github.com/medusajs/medusa/commit/dc3e213a3be9d5ae8637863461eab0404bbc0e16), [`9f5194267fc5abdece31531af3822b0d05ed1fcc`](https://github.com/medusajs/medusa/commit/9f5194267fc5abdece31531af3822b0d05ed1fcc), [`8b3b9f7dc97731688e4a5f1c0bb2714e00483bc6`](https://github.com/medusajs/medusa/commit/8b3b9f7dc97731688e4a5f1c0bb2714e00483bc6), [`801dbdb2ae70152aaa5917590885bd36bd44efc4`](https://github.com/medusajs/medusa/commit/801dbdb2ae70152aaa5917590885bd36bd44efc4), [`beb1b5e6bcbfeda02659cbaa0e04d5dbc1ba64cd`](https://github.com/medusajs/medusa/commit/beb1b5e6bcbfeda02659cbaa0e04d5dbc1ba64cd), [`06b05343b4158e7bb96f8f0fbd7e6836a1818e44`](https://github.com/medusajs/medusa/commit/06b05343b4158e7bb96f8f0fbd7e6836a1818e44), [`2bd3b0d18d7d4fe9c6f36bdffb76d1104f58f47b`](https://github.com/medusajs/medusa/commit/2bd3b0d18d7d4fe9c6f36bdffb76d1104f58f47b), [`456813f8b36ab1086dec09c6a89655d7ab0bae5b`](https://github.com/medusajs/medusa/commit/456813f8b36ab1086dec09c6a89655d7ab0bae5b), [`18474de124868370298addf195e5229ca6792f81`](https://github.com/medusajs/medusa/commit/18474de124868370298addf195e5229ca6792f81), [`30f6d407cfaca510939ad161fbbe74feebb97883`](https://github.com/medusajs/medusa/commit/30f6d407cfaca510939ad161fbbe74feebb97883), [`1344c10503f34e392bd03f733820bcd5a12a2766`](https://github.com/medusajs/medusa/commit/1344c10503f34e392bd03f733820bcd5a12a2766), [`a46961ed421dc69fe991891d02b0f1c66f6180ab`](https://github.com/medusajs/medusa/commit/a46961ed421dc69fe991891d02b0f1c66f6180ab), [`b74b5b19569534412a67835ffae8fb3afbf6f5c5`](https://github.com/medusajs/medusa/commit/b74b5b19569534412a67835ffae8fb3afbf6f5c5), [`13c5dd22802593f5fb5c0a97076a966704aa56c9`](https://github.com/medusajs/medusa/commit/13c5dd22802593f5fb5c0a97076a966704aa56c9), [`14af163eae35be9a204f37c5a87d0b2b59b14054`](https://github.com/medusajs/medusa/commit/14af163eae35be9a204f37c5a87d0b2b59b14054), [`740132b7576d937b82e913c1ccf4cfabe56777d6`](https://github.com/medusajs/medusa/commit/740132b7576d937b82e913c1ccf4cfabe56777d6)]:
+  - @medusajs/utils@2.16.0
+  - @medusajs/types@2.16.0
+  - @medusajs/cli@2.16.0
+  - @medusajs/workflows-sdk@2.16.0
+  - @medusajs/deps@2.16.0
+  - @medusajs/telemetry@2.16.0
+  - @medusajs/modules-sdk@2.16.0
+  - @medusajs/orchestration@2.16.0
+
 ## 2.15.5
 
 ### Patch Changes

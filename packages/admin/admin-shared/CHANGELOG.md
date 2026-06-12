@@ -1,5 +1,11 @@
 # @medusajs/admin-shared
 
+## 2.16.0
+
+### Patch Changes
+
+- [#14674](https://github.com/medusajs/medusa/pull/14674) [`06b05343b4158e7bb96f8f0fbd7e6836a1818e44`](https://github.com/medusajs/medusa/commit/06b05343b4158e7bb96f8f0fbd7e6836a1818e44) Thanks [@fPolic](https://github.com/fPolic)! - feat(dashboard,admin-shared,core-flows,js-sdk,types,medusa,link-modules): RBAC admin dashboard CRUD
+
 ## 2.15.5
 
 ## 2.15.4
